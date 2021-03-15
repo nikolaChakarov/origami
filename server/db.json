@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "content": "fitst post",
+            "author": "kika"
+        },
+        {
+            "id": 2,
+            "second": "fitst post",
+            "author": "sisa"
+        },
+        {
+            "id": 3,
+            "content": "third post",
+            "author": "desa"
+        }
+    ]
+}
